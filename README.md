@@ -40,6 +40,25 @@ Se aplicaron diferentes modelos:
 - **Árbol de Decisión**: para visualizar reglas de decisión claras que llevan a churn.
 - **Random Forest**: para mejorar la capacidad predictiva y evaluar importancia de características.
 
+## Graficas
+
+<img width="913" height="561" alt="imagen" src="https://github.com/user-attachments/assets/a1be7fcc-beb3-4df1-b896-396b6845ec94" />
+
+<img width="923" height="563" alt="imagen" src="https://github.com/user-attachments/assets/0a1277f6-c8d4-435f-97b0-88bd24a0778e" />
+
+<img width="1007" height="597" alt="imagen" src="https://github.com/user-attachments/assets/68303968-1a27-4516-adf0-8439122d8a0e" />
+
+<img width="1044" height="613" alt="imagen" src="https://github.com/user-attachments/assets/7a6433bf-c540-4fbb-9a80-748b5edd87eb" />
+
+
+
+<img width="947" height="665" alt="imagen" src="https://github.com/user-attachments/assets/b7b672a0-b951-4cfe-9342-295238af35e5" />
+
+
+
+- <img width="1495" height="468" alt="imagen" src="https://github.com/user-attachments/assets/743a8952-d7dc-4dad-af97-c5fadf9e481e" />
+
+
 ---
 
 ## 📌 Decisiones Estratégicas Recomendadas
